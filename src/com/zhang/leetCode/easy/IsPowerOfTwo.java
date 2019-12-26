@@ -17,7 +17,7 @@ package com.zhang.leetCode.easy;
 public class IsPowerOfTwo {
 
     public static void main(String[] args) {
-        System.out.println(isPowerOfTwoV2(9));
+        System.out.println(isPowerOfTwoV3(1));
     }
 
     public static boolean isPowerOfTwoV3(int n) {
