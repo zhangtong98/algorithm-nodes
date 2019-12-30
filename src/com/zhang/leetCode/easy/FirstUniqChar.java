@@ -24,7 +24,6 @@ public class FirstUniqChar {
             if (beginIndex != -1 && beginIndex == s.lastIndexOf(ch)) {
                 //取小的，越小代表越前。
                 index = (index == -1 || index > beginIndex) ? beginIndex : index;
-
             }
         }
         return index;
