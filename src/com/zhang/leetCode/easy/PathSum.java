@@ -35,14 +35,63 @@ public class PathSum {
         t1.right = t3;
         t3.right = t6;
         t2.left = t4;
-        t3.right = t5;
+        t2.right = t5;
         t4.left = t7;
         t4.right = t8;
         t5.right = t9;
-        System.out.println(pathSum(t1, 8));
+        System.out.println(pathSumV3(t1, 8));
+    }
+
+    static int s = 0;
+    public static int pathSumV3(TreeNode root, int sum) {
+        if (root == null) return 0;
+        helperV3(root,sum,new int[1000],0);
+        return s;
+    }
+    public static void helperV3(TreeNode node, int sum, int[] array, int p){
+        int temp = 0;
+        array[p] = node.val;
+        for (int i = p; i >= 0; i--) {
+            temp += array[i];
+            if (temp == sum) s++;
+        }
+        array[p] = node.val;
+        if (node.left != null) helperV3(node.left, sum, array, p+1);
+        if (node.right != null) helperV3(node.right, sum, array, p+1);
     }
 
     public static int pathSum(TreeNode root, int sum) {
-
+        if (root == null) return 0;
+        return helper(root,sum,new int[1000],0);
     }
+    public static int helper(TreeNode node, int sum, int[] array, int p){
+        if (node == null) return 0;
+        int temp = node.val;
+        int n = node.val == sum ? 1 : 0;
+        for (int i = p-1; i >= 0; i--) {
+            temp += array[i];
+            if (temp == sum) n++;
+        }
+        array[p] = node.val;
+        int left = helper(node.left, sum, array, p+1);
+        int right = helper(node.right, sum, array, p+1);
+        return n+left+right;
+    }
+
+    public static int pathSumV2(TreeNode root, int sum) {
+        if (root == null) return 0;
+        return paths(root, sum)+ pathSumV2(root.left, sum)+ pathSumV2(root.right, sum);
+    }
+
+    private static int paths(TreeNode root, int sum) {
+        if (root == null) return 0;
+        int res = 0;
+        if (root.val == sum) res += 1;
+
+        res += paths(root.left, sum - root.val);
+        res += paths(root.right, sum - root.val);
+
+        return res;
+    }
+
 }
