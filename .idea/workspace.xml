@@ -2,202 +2,202 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="182a21b9-6298-4326-ad03-28a69e09f891" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_3_0.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/Rob.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ReverseList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/Intersection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/PreorderTraversal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MyStackTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ReverseVowels.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsPalindrome.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ArrangeCoins.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/LowestCommonAncestor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ReverseBits.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/DeleteDuplicates.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsHappy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/AddBinary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MissingNumber.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/Rob.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/SumOfLeftLeaves.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsHappy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/LengthOfLastWord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/HammingWeight.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/PlusOne.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/Merge.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsPalindrome03.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsSymmetric.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/WordPattern.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/InvertTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsValid.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MaxDepth.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/Generate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/SumRange.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ClimbStairs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MaxProfit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/Reverse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MinStackTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/CountAndSay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MajorityElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/TitleToNumber.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/LongestCommonPrefix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/LongestPalindrome.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/SortedArrayToBST.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/Reverse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/RomanToInt$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsIsomorphic.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/TitleToNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsValid.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MinStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/BinaryTreePaths.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MyStackTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/SearchInsert.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/AddDigits.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/RemoveDuplicates.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/HasPathSum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ContainsDuplicate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MinStack02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/RemoveElements.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ConvertToTitle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/HasCycle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsIsomorphic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/CanConstruct.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MaxDepth.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/DeleteDuplicates.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/TwoSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/AddStrings.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/CanWinNim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsPalindrome02.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/FizzBuzz.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/other/BreakDownPrimeFactor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MyStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MergeTwoLists.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ContainsNearbyDuplicate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/LowestCommonAncestor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MyQueueV2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/TrailingZeroes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MaxSubArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/LongestCommonPrefix.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsUgly.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/SearchInsert.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/VersionControl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/LengthOfLastWord.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/StrStr.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/PathSum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsSameTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/SortedArrayToBST.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/jianzhi/ReplaceSpace.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/CountAndSay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MySqrt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsSymmetric.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ReverseBits.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/HasCycle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ContainsNearbyDuplicate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/FirstUniqChar.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MoveZeroes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/GuessNumber.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsPowerOfTwo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/AddDigits.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_1.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/GetRow.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsPowerOfTwo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/BinaryTreePaths.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsAnagram.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/WordPattern.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/PreorderTraversal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MinDepth.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsBalanced.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/jianzhi/Find.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/FirstBadVersion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/SingleNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ClimbStairs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/jianzhi/ReplaceSpace.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsPalindrome.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/RemoveElements.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/InvertTree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsPerfectSquare.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ReverseList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/jianzhi/Duplicate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsPowerOfFour.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ThirdMax.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/TwoSum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MissingNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ReadBinaryWatch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MoveZeroes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ReverseString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MinDepth.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MajorityElement.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/StrStr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/FindTheDifference.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/FirstBadVersion.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/jianzhi/Find.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/TrailingZeroes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsSubsequence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MaxProfit.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsUgly.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MyQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MyQueueTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MinStackTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/AddBinary.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/Rotate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ContainsDuplicate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsPalindrome02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/CountAndSay$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/InvertTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/SumOfLeftLeaves.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/GetRow.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MaxProfit02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ConvertToTitle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MySqrt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/LevelOrderBottom.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MyQueueTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/CountPrimes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/RemoveElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/Compress.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/RomanToInt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/RemoveDuplicates.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/GetHint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/GetSum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/HasPathSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/GetHint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/DeleteNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MaxProfit02.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsBalanced.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/SingleNumber.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsPowerOfThree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/HammingWeight.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/GetIntersectionNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/GetIntersectionNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/DeleteNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/RemoveElement.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/Merge.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/CountPrimes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/Rotate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ListNode02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/jianzhi/Duplicate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/TwoSum02.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MaxSubArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/TwoSum02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/CanWinNim.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ToHex.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ThirdMax.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ContainsDuplicate.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/TrailingZeroes.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/BinaryTreePaths.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/Generate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MinStack02.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/HasCycle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MaxDepth.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/CountSegments.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MergeTwoLists.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsSameTree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MinDepth.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/SumRange.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MinDepth.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MissingNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/HasPathSum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsSubsequence.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/PlusOne.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/RomanToInt.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/LongestCommonPrefix.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MyQueueTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsIsomorphic.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MajorityElement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/SearchInsert.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/TitleToNumber.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/GetIntersectionNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/WordPattern.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/TrailingZeroes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/jianzhi/Find.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/RomanToInt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/SingleNumber.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsPalindrome03.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MyQueue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MaxProfit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsSymmetric.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/BinaryTreePaths.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MyStack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/GetIntersectionNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/RemoveElements.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/GetHint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MinStackTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/Rob.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/WordPattern.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ClimbStairs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsPowerOfTwo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsUgly.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/HasPathSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/Rotate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MergeTwoLists.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MyStackTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/FirstBadVersion.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/PreorderTraversal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsUgly.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/TwoSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/Reverse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/CanWinNim.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/SearchInsert.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MyQueueV2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/CanConstruct.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsHappy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/LongestPalindrome.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/StrStr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/CountPrimes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MaxDepth.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsPalindrome03.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ReadBinaryWatch.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsAnagram.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/FizzBuzz.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MyStackTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsSymmetric.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/SortedArrayToBST.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/jianzhi/Duplicate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/SingleNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/AddStrings.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ArrangeCoins.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/Merge.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/jianzhi/Find.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/Compress.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/AddDigits.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsBalanced.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MinStack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MoveZeroes.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ReverseVowels.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/DeleteDuplicates.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/HasCycle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/LengthOfLastWord.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ContainsDuplicate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ConvertToTitle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MaxProfit02.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ReverseList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsPowerOfFour.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MyQueueTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/DeleteNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/CountAndSay$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/CountAndSay.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/PathSum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/PreorderTraversal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/CountPrimes.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MissingNumber.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/jianzhi/Duplicate.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ListNode02.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/RemoveDuplicates.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MaxProfit02.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsBalanced.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/LevelOrderBottom.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/TwoSum02.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/FindTheDifference.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/VersionControl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/CountAndSay.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/LowestCommonAncestor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsIsomorphic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/RemoveElements.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/PlusOne.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/Rob.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/DeleteNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/LevelOrderBottom.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MaxSubArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/TwoSum02.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/TitleToNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/RomanToInt.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/LongestCommonPrefix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsPalindrome02.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/InvertTree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/AddDigits.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsValid.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/RomanToInt$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsPalindrome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MinStackTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsPalindrome.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/jianzhi/ReplaceSpace.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ContainsNearbyDuplicate.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ContainsNearbyDuplicate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/AddBinary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ConvertToTitle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsPerfectSquare.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ReverseList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MySqrt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/Rotate.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/Reverse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsPalindrome02.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ReverseBits.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsHappy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/jianzhi/ReplaceSpace.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/other/BreakDownPrimeFactor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/DeleteDuplicates.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsValid.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/FirstUniqChar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/RemoveElement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MySqrt.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/FirstBadVersion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/TwoSum.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/Intersect.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/Generate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/other/BreakDownPrimeFactor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/LevelOrderBottom.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MajorityElement.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsAnagram.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/CanWinNim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/GetHint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/HammingWeight.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/LowestCommonAncestor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MaxSubArray.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsSameTree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/HammingWeight.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/IsPowerOfThree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ReverseString.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MaxProfit.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/SortedArrayToBST.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ClimbStairs.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ReverseBits.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/GuessNumber.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/MergeTwoLists.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsPowerOfTwo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/ToHex.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/GetSum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/AddBinary.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/StrStr.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/LengthOfLastWord.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/Merge.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/RemoveDuplicates.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/RemoveElement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/other/BreakDownPrimeFactor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/MoveZeroes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/zhang/leetCode/easy/Intersection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/algorithm-nodes/com/zhang/leetCode/easy/IsSameTree.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-nodes.iml" afterPath="$PROJECT_DIR$/algorithm-nodes.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-nodes.iml" afterPath="$PROJECT_DIR$/algorithm-nodes.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
     </list>
     <ignored path="algorithm-nodes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -226,82 +226,12 @@
     <favorites_list name="algorithm-nodes" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyArrayStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/javaTest/myCollection/MyArrayStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BloomFilterTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/javaTest/bloom/BloomFilterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoogleBloom.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/javaTest/bloom/GoogleBloom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="9" selection-start-line="22" selection-start-column="43" selection-end-line="24" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KMPString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/StringUtils/KMPString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestPalindromeSubstring.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/StringUtils/LongestPalindromeSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestPalindromeSubseq.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/StringUtils/LongestPalindromeSubseq.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6835443">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -403,6 +333,25 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zhang/StringUtils/KMPString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zhang/StringUtils/LongestPalindromeSubstring.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zhang/StringUtils/LongestPalindromeSubseq.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/other/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/other/ThreeSumDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/numberUtils/ArrayGenerater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/other/threeSum/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/other/threeSum/ThreeSumSlow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/other/threeSum/ThreeSumBinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/numberUtils/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/other/threeSum/ThreeSumTwoPointer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/other/threeSum/ThreeSumDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/SortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/Selection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/Bubble.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/AbstractSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/Insertion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/Shell.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/Up2DownMergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/Down2UpMergeSort.java" />
       </list>
     </option>
   </component>
@@ -443,6 +392,64 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Hibernate Issues</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -468,8 +475,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -519,6 +526,18 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imgs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -550,13 +569,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm-nodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm-nodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zhang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sortUtils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
@@ -568,95 +621,103 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
   </component>
-  <component name="RunManager" selected="Application.LongestPalindromeSubseq">
-    <configuration default="false" name="BloomFilterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zhang.javaTest.bloom.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zhang.javaTest.bloom.BloomFilterTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algorithm-nodes" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="GoogleBloom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zhang.javaTest.bloom.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zhang.javaTest.bloom.GoogleBloom" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algorithm-nodes" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="KMPString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zhang.StringUtils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zhang.StringUtils.KMPString" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algorithm-nodes" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="LongestPalindromeSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zhang.StringUtils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zhang.StringUtils.LongestPalindromeSubstring" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algorithm-nodes" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pojects\algorithm-nodes\src\main\resources\imgs\sort" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SortTest">
     <configuration default="false" name="LongestPalindromeSubseq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.zhang.StringUtils.*" />
+          <option name="PATTERN" value="com.zhang.stringUtils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zhang.StringUtils.LongestPalindromeSubseq" />
+      <option name="MAIN_CLASS_NAME" value="com.zhang.stringUtils.LongestPalindromeSubseq" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm-nodes" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ThreeSumDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zhang.other.threeSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.zhang.other.threeSum.ThreeSumDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm-nodes" />
+      <envs />
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="WINDOW" value="false" />
+      </RunnerSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="Selection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zhang.sortUtils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.zhang.sortUtils.Selection" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm-nodes" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zhang.sortUtils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.zhang.sortUtils.Bubble" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm-nodes" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zhang.sortUtils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.zhang.sortUtils.SortTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1080,19 +1141,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BloomFilterTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GoogleBloom" />
-      <item index="2" class="java.lang.String" itemvalue="Application.KMPString" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LongestPalindromeSubstring" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LongestPalindromeSubseq" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LongestPalindromeSubseq" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ThreeSumDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Selection" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Bubble" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SortTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LongestPalindromeSubseq" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LongestPalindromeSubstring" />
-        <item index="2" class="java.lang.String" itemvalue="Application.KMPString" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GoogleBloom" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BloomFilterTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SortTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Bubble" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Selection" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ThreeSumDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LongestPalindromeSubseq" />
       </list>
     </recent_temporary>
   </component>
@@ -1118,12 +1179,15 @@
       <workItem from="1617173563262" duration="8483000" />
       <workItem from="1617240679972" duration="628000" />
       <workItem from="1617696448107" duration="2476000" />
-      <workItem from="1619335174201" duration="173000" />
+      <workItem from="1619335174201" duration="928000" />
+      <workItem from="1619508976549" duration="6573000" />
+      <workItem from="1619576595266" duration="12722000" />
+      <workItem from="1619661496158" duration="4892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47608000" />
+    <option name="totallyTimeSpent" value="72550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1131,27 +1195,28 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6266234" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.62554115" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15405117" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4935065" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24891774" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4935065" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1167,7 +1232,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="20" />
+      <option name="time" value="26" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1176,185 +1241,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/javaTest/reflex/ReflectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52791876">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/javaTest/proxy/TargetTestImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.7/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="721" column="61" selection-start-line="719" selection-start-column="42" selection-end-line="721" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/javaTest/proxy/CGLIBTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3248731">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/javaTest/proxy/MyCGLEBMethodInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.3.0/cglib-3.3.0.jar!/net/sf/cglib/proxy/MethodInterceptor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25577265">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.3.0/cglib-3.3.0.jar!/net/sf/cglib/proxy/Callback.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1705151">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.3.0/cglib-3.3.0.jar!/net/sf/cglib/proxy/Enhancer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5435169">
-          <caret line="108" column="18" selection-start-line="108" selection-start-column="18" selection-end-line="108" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/leetCode/easy/InvertTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/javaTest/proxy/JDKProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/javaTest/proxy/CGLEBProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.7/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.413408">
-          <caret line="420" column="39" selection-start-line="420" selection-start-column="28" selection-end-line="420" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.7/src.zip!/java/util/Hashtable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35977653">
-          <caret line="314" column="23" selection-start-line="314" selection-start-column="11" selection-end-line="314" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.7/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="146" column="16" selection-start-line="146" selection-start-column="16" selection-end-line="146" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.7/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5441341">
-          <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/javaTest/proxy/MyJDKInvocationHandle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.7/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="349" column="30" selection-start-line="349" selection-start-column="23" selection-end-line="349" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.7/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/javaTest/proxy/StaticProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.7/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="570" column="23" selection-start-line="570" selection-start-column="19" selection-end-line="570" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#39971#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#4246#4247#0" expanded="false" />
-            <element signature="e#4278#4279#0" expanded="false" />
-            <element signature="e#14984#14985#0" expanded="false" />
-            <element signature="e#15014#15015#0" expanded="false" />
-            <element signature="e#15342#15343#0" expanded="false" />
-            <element signature="e#15373#15374#0" expanded="false" />
-            <element signature="e#19906#19907#0" expanded="false" />
-            <element signature="e#19949#19950#0" expanded="false" />
-            <element signature="e#20318#20319#0" expanded="false" />
-            <element signature="e#20358#20359#0" expanded="false" />
-            <element signature="e#20830#20831#0" expanded="false" />
-            <element signature="e#20870#20871#0" expanded="false" />
-            <element signature="e#21347#21348#0" expanded="false" />
-            <element signature="e#21387#21388#0" expanded="false" />
-            <element signature="e#21878#21879#0" expanded="false" />
-            <element signature="e#21918#21919#0" expanded="false" />
-            <element signature="e#22431#22432#0" expanded="false" />
-            <element signature="e#22471#22472#0" expanded="false" />
-            <element signature="e#22923#22924#0" expanded="false" />
-            <element signature="e#22947#22948#0" expanded="false" />
-            <element signature="e#23993#23994#0" expanded="false" />
-            <element signature="e#24035#24036#0" expanded="false" />
-            <element signature="e#24379#24380#0" expanded="false" />
-            <element signature="e#24404#24405#0" expanded="false" />
-            <element signature="e#29963#29964#0" expanded="false" />
-            <element signature="e#30006#30007#0" expanded="false" />
-            <element signature="e#32127#32128#0" expanded="false" />
-            <element signature="e#32173#32174#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.7/src.zip!/java/util/AbstractMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.008938">
-          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/jdk1.7/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1487,7 +1373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1502,7 +1387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1515,7 +1399,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.55684453">
           <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding />
         </state>
@@ -1525,7 +1409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="9" selection-start-line="22" selection-start-column="43" selection-end-line="24" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1540,22 +1423,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3329609">
           <caret line="125" column="12" selection-start-line="125" selection-start-column="12" selection-end-line="125" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/StringUtils/KMPString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/StringUtils/LongestPalindromeSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/stringUtils/LongestPalindromeSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1563,14 +1438,169 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/stringUtils/LongestPalindromeSubseq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24134079">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/stringUtils/KMPString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8849162">
+          <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.7/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3329609">
+          <caret line="189" column="15" selection-start-line="189" selection-start-column="15" selection-end-line="189" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/numberUtils/ArrayGenerater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5631285">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/other/BreakDownPrimeFactor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/other/threeSum/ThreeSumBinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5631285">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/numberUtils/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21452513">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/other/threeSum/ThreeSumTwoPointer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27597764">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/other/threeSum/ThreeSumSlow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/other/threeSum/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/other/threeSum/ThreeSumDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/imgs/sort/sort.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/imgs/sort/selection.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/imgs/sort/bubble.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/AbstractSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24134079">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/StringUtils/LongestPalindromeSubseq.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/SortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6835443">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.26815644">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/Bubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32178771">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/Insertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/Shell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/Up2DownMergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhang/sortUtils/Down2UpMergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13407822">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -1585,6 +1615,17 @@
             <option name="proportions">
               <list>
                 <option value="0.3448276" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38820422" />
               </list>
             </option>
           </splitter-proportions>

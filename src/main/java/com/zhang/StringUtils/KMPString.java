@@ -1,4 +1,4 @@
-package com.zhang.StringUtils;
+package com.zhang.stringUtils;
 
 import java.util.*;
 
